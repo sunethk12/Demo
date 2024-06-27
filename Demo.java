@@ -7,6 +7,8 @@ public class Demo {
         for (int number : numbers) {
             System.out.println(number);
              System.out.println("done");
+              System.out.println(number);
+             System.out.println("done");
         }
     }
 }
