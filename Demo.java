@@ -5,7 +5,7 @@ public class Demo {
 
         System.out.println("Array elements:");
         for (int number : numbers) {
-            System.out.println(number);
+            System.out.println(number+ "added");
         }
     }
 }
